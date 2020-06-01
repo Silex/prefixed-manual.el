@@ -1,4 +1,4 @@
-;;; prefixed-manual.el --- Prefixed manual utilities  -*- lexical-binding: t -*-
+;;; prefixed-manual.el --- Prefixed manual utilities
 
 ;; Author: Philippe Vaucher <philippe.vaucher@gmail.com>
 ;; URL: https://github.com/Silex/prefixed-manual.el
